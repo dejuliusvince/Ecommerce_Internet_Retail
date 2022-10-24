@@ -8,6 +8,6 @@ I have included a video demonstrating this partial functionality, however time c
 
 ## Links
 
-link to video: 
+link to video: https://drive.google.com/file/d/1PJ2sNr3U-AiNHcIaU3RGqhkE2CwZ6_8T/view?usp=sharing
 
-link to repository: 
+link to repository: https://github.com/dejuliusvince/Ecommerce_Internet_Retail
