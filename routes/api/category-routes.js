@@ -11,13 +11,12 @@ router.get('/', async (req, res) => {
 try{
   const categories = await Category.findAll({
     include:[{model:Product}],
-   
-  }):
+  });
 
-  res.json(categories):
+  res.json(categories);
 }
 catch(err){
-  res.json(err):
+  res.json(err);
 }
   // be sure to include its associated Products
 });
